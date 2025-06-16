@@ -17,3 +17,15 @@
 - download playlist (makes a folder in desktop named after the playlist)
 - download bulk (like paste a channel link to download all of their videos)
 - subscribe to wingdinghq
+
+
+#
+
+### review from happy user
+
+##### *"i really liked it 8/10"* - neon noah
+
+![Screenshot_9](https://github.com/user-attachments/assets/33769781-4efd-4d53-9e44-5dd8c27d3eac)
+
+
+-----------------
